@@ -1,2 +1,2 @@
-# python_for_data_analysis
+# Python for Data Analysis
 Activities from the Wes McKinney book `Python for Data Analysis` 
